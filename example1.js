@@ -1,6 +1,6 @@
 var element = document.getElementById('myChart').getContext('2d');
 
-var chartType = 'line'; // The type of chart we want to create
+var chartType = 'bar'; // The type of chart we want to create
 
 // The data for our dataset
 var chartData = {
