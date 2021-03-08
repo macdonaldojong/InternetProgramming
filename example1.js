@@ -23,7 +23,7 @@ var chartOptions = {
                 bottom: 60
             }
         }
-    }
+    };
 
 // new Chart(x, y) creates a new chart object where:
 // x is the object for the html element.
